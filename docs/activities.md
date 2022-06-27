@@ -2,13 +2,16 @@
 
 ## IT関連
 
-[speg03の雑記帳 - はてなブログ](https://speg03.hatenadiary.jp) (2009.01 - 現在)
-:   わずかなスキマ時間を使って試したことやメモを書くところ。
+[Zenn](https://zenn.dev/speg03) (2022.06 - 現在)
+:   わずかなスキマ時間を使って試したことやメモを書くところ Part2。
 
 [speg03のブックマーク - はてなブックマーク](https://b.hatena.ne.jp/speg03/bookmark) (2009.09 - 現在)
 :   あくまで自分があとで見るためのブックマーク。
 
-[speg03's scraps - Scrapbox](https://scrapbox.io/speg03/) (2019.11 - 現在)
+[speg03の雑記帳 - はてなブログ](https://speg03.hatenadiary.jp) (2009.01 - 2020.06)
+:   わずかなスキマ時間を使って試したことやメモを書くところ。
+
+[speg03's scraps - Scrapbox](https://scrapbox.io/speg03/) (2019.11 - 2021.12)
 :   どこかにまとめる前のメモを書いておくところ。
 
 ## 弓道

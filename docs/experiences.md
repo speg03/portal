@@ -2,11 +2,13 @@
 
 ## 職歴: ユーザー系SIer
 
-### 2020: MLOps
+### 2020-2022: MLOps
 
-* GCP AI Platformを用いたMLOps基盤の構築
+* ML開発サイクルの検討（MLパイプラインのCI/CD）
+* KFPを使ったMLパイプライン実装の検証
+* GCP AI Platform Pipelines / Vertex AI Pipelinesを用いたMLOps基盤の構築
 
-### 2018: 機械学習基盤の構築
+### 2018-2019: 機械学習基盤の構築
 
 * AWS Batchを用いた機械学習基盤の構築
 * Amazon SageMaker向けのコマンドラインツールの開発
