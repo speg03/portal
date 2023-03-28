@@ -16,14 +16,14 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: "3.x"
+          python-version: "3.11"
           cache: pip
 
       - name: Install dependencies
         run: python3 -m pip install -r requirements.txt
 
       - name: Build pages
-        run: mkdocs build --verbose --strict
+        run: make site
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
@@ -42,4 +42,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v2
