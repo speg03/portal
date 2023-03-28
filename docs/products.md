@@ -21,4 +21,4 @@ argparseを拡張したコマンドライン引数を定義するためのPython
 
 ## 貢献したもの
 
-* [:fontawesome-brands-github: GitHubで検索](https://github.com/search?q=author%3Aspeg03+-user%3Aspeg03+sort%3Aupdated&type=Issues)
+* [:fontawesome-brands-github: GitHubで検索](https://github.com/search?q=author%3Aspeg03+-user%3Aspeg03+sort%3Aupdated&type=pullrequests)
