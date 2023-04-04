@@ -5,7 +5,7 @@ clean:
 	rm -rf ./site
 
 requirements:
-	pip-compile --upgrade ./requirements.in
+	pip-compile --upgrade requirements.in
 
 site:
 	mkdocs build --verbose --strict
