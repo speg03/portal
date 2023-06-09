@@ -46,6 +46,7 @@
 
 ## 受講履歴
 
+* ML Observability Fundamentals Certification - Arize University (2023.06)
 * [ML Pipelines on Google Cloud - Coursera](https://www.coursera.org/account/accomplishments/certificate/NBB4YQ5KNUC8) (2021.03)
 * [MLOps (Machine Learning Operations) Fundamentals - Coursera](https://www.coursera.org/account/accomplishments/certificate/8B9ZELREJY87) (2021.01)
 * [TensorFlow in Practice Specialization - Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/PRAMEY7KTYZ5) (2020.08)
