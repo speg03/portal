@@ -2,7 +2,7 @@
 
 ## 職歴: ユーザー系SIer
 
-### 2020-2022: MLOps
+### 2020-2023: MLOps
 
 * ML開発サイクルの検討（MLパイプラインのCI/CD）
 * KFPを使ったMLパイプライン実装の検証
@@ -32,7 +32,7 @@
 
 ## 認定資格
 
-* [TensorFlow Developer Certificate](https://www.credential.net/163aee9d-7a07-457c-ae8c-4097857e8aab) (2020.08)
+* ~~[TensorFlow Developer Certificate](https://www.credential.net/163aee9d-7a07-457c-ae8c-4097857e8aab) (2020.08)~~ 失効
 * [JDLA Deep Learning for ENGINEER 2019 #1](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/ZU9DcEhESk5vRE81OEFRSkcxUXNaUT09) (2019.02)
 * [AWS 認定 ソリューションアーキテクト - プロフェッショナル](https://www.youracclaim.com/badges/43640358-6a49-44a4-befe-cc47f98b8c75/public_url) (2018.03, 2021.03)
 * [AWS 認定 ソリューションアーキテクト - アソシエイト](https://www.youracclaim.com/badges/7267869e-738e-4532-8eef-a415316903c8/public_url) (2016.03)
