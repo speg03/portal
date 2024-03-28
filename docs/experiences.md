@@ -34,7 +34,7 @@
 
 * ~~[TensorFlow Developer Certificate](https://www.credential.net/163aee9d-7a07-457c-ae8c-4097857e8aab) (2020.08)~~ 失効
 * [JDLA Deep Learning for ENGINEER 2019 #1](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/ZU9DcEhESk5vRE81OEFRSkcxUXNaUT09) (2019.02)
-* [AWS 認定 ソリューションアーキテクト - プロフェッショナル](https://www.youracclaim.com/badges/43640358-6a49-44a4-befe-cc47f98b8c75/public_url) (2018.03, 2021.03)
+* [AWS 認定 ソリューションアーキテクト - プロフェッショナル](https://www.youracclaim.com/badges/43640358-6a49-44a4-befe-cc47f98b8c75/public_url) (2018.03, 2021.03, 2024.03)
 * [AWS 認定 ソリューションアーキテクト - アソシエイト](https://www.youracclaim.com/badges/7267869e-738e-4532-8eef-a415316903c8/public_url) (2016.03)
 * ~~Red Hat 認定 JBoss 管理者 (JBoss Enterprise Application Platform 6) (2014.01)~~ 失効
 * ~~[認定スクラムマスター](https://certification.scrumalliance.org/accounts/234954-takahiro-yano/certifications/251237-csm) (2013.01)~~ 失効
