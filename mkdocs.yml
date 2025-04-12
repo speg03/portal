@@ -3,7 +3,7 @@ site_description: speg03 portal site
 site_author: Takahiro Yano
 site_url: https://sp3.dev
 
-copyright: Copyright &copy; 2018-2024 Takahiro Yano
+copyright: Copyright &copy; 2018-2025 Takahiro Yano
 
 theme:
   name: material
@@ -20,8 +20,8 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/speg03
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/speg03
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/speg03
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/speg03
     - icon: fontawesome/brands/linkedin

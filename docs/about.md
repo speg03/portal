@@ -20,4 +20,4 @@ speg03 (Takahiro Yano)
 1. 学習欲
 1. 最上志向
 
-参考: [さあ、才能（じぶん）に目覚めよう　新版 | 日本経済新聞出版](https://nikkeibook.nikkeibp.co.jp/item-detail/32143)
+参考: "さあ、才能（じぶん）に目覚めよう　新版 | 日本経済新聞出版"
