@@ -5,7 +5,7 @@ clean:
 	rm -rf ./site
 
 requirements:
-	pip-compile --upgrade requirements.in
+	uv pip compile -U pyproject.toml -o requirements.txt
 
 site:
 	mkdocs build --verbose --strict
