@@ -5,6 +5,7 @@ clean:
 	rm -rf ./site
 
 requirements:
+	uv lock -U
 	uv pip compile -U pyproject.toml -o requirements.txt
 
 site:
