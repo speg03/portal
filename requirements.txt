@@ -6,7 +6,7 @@ backrefs==6.2
     # via mkdocs-material
 certifi==2026.2.25
     # via requests
-charset-normalizer==3.4.6
+charset-normalizer==3.4.7
     # via requests
 click==8.3.1
     # via mkdocs
@@ -53,7 +53,7 @@ platformdirs==4.9.4
     # via mkdocs-get-deps
 pygments==2.20.0
     # via mkdocs-material
-pymdown-extensions==10.21
+pymdown-extensions==10.21.2
     # via mkdocs-material
 python-dateutil==2.9.0.post0
     # via ghp-import
@@ -65,7 +65,7 @@ pyyaml==6.0.3
     #   pyyaml-env-tag
 pyyaml-env-tag==1.1
     # via mkdocs
-requests==2.33.0
+requests==2.33.1
     # via mkdocs-material
 six==1.17.0
     # via python-dateutil
