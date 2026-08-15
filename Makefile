@@ -15,8 +15,8 @@ deps:
 
 .PHONY: site
 site:
-	uv run mkdocs build --verbose --strict
+	uv run zensical build --clean --strict
 
 .PHONY: serve
 serve:
-	uv run mkdocs serve
+	uv run zensical serve
