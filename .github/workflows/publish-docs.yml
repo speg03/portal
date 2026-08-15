@@ -13,14 +13,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
-      - name: Set up Python
-        uses: actions/setup-python@v7
-        with:
-          python-version: "3.13"
-          cache: pip
-
+      - name: Install the latest version of uv
+        uses: astral-sh/setup-uv@20cfd1bf945f4377ade1205e4dbc17946fc9a30d # v10.0.1
       - name: Install dependencies
-        run: python3 -m pip install -r requirements.txt
+        run: uv sync --upgrade
 
       - name: Build pages
         run: make site

@@ -1,15 +1,22 @@
-.PHONY: all clean requirements site serve
-
+.PHONY: all
 all: site
+
+.PHONY: clean
 clean:
 	rm -rf ./site
 
-requirements:
-	uv lock -U
-	uv pip compile -U pyproject.toml -o requirements.txt
+.PHONY: install
+install:
+	uv sync
 
+.PHONY: deps
+deps:
+	uv lock --upgrade
+
+.PHONY: site
 site:
-	mkdocs build --verbose --strict
+	uv run mkdocs build --verbose --strict
 
+.PHONY: serve
 serve:
-	mkdocs serve
+	uv run mkdocs serve
