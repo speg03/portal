@@ -1,0 +1,26 @@
+[project]
+site_url = "https://sp3.dev"
+site_name = "SP3.dev"
+site_description = "speg03 portal site"
+site_author = "Takahiro Yano"
+
+copyright = "Copyright &copy; 2018-2026 Takahiro Yano"
+
+nav = [
+  { "Home" = "index.md" },
+  { "私について" = "about.md" },
+  { "これまでの経験" = "experiences.md" },
+  { "作ったもの" = "products.md" },
+  { "その他の活動" = "activities.md" },
+]
+
+[project.theme]
+language = "ja"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/github"
+link = "https://github.com/speg03"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/x-twitter"
+link = "https://x.com/speg03"
